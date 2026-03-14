@@ -96,5 +96,7 @@ client_socket.close()
 
 ## OUTPUT
 
+<img src="5a.png" width="600">
+
 ## Result
 Thus the socket for HTTP for web page upload and download created and Executed
